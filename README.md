@@ -2,131 +2,121 @@
 
 # Hi, I'm Çağan Derindere 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=3500&pause=800&color=0EA5E9&center=true&vCenter=true&width=900&lines=Full+Stack+.NET+Developer;AI+Automation+Engineer;Shopify+Developer;Backend+%26+API+Developer;Building+Software+That+Solves+Real+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+.NET+Developer;AI+Automation+Engineer;Shopify+Engineer;Backend+%26+API+Developer;Building+Software+That+Solves+Real+Problems" />
 
 ### Full Stack .NET Developer • AI Automation • Shopify Engineer
 
-<p>
-Building software that automates businesses, scales e-commerce and solves real problems.
-</p>
+Building software that automates businesses, scales e-commerce and solves real-world problems.
 
 <p>
-
 <a href="mailto:programmercagan@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/cagandrd/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/caganderindere">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=caganderindere&style=for-the-badge&color=3B82F6"/>
 
 </p>
 
----
-
 </div>
 
-# 💻 About Me
+---
 
-```cs
+# About Me
+
+```csharp
 public class CaganDerindere
 {
-    public string Role = "Full Stack .NET Developer";
+    public string Role => "Full Stack .NET Developer";
 
-    public string University =
+    public string University =>
         "Management Information Systems";
 
-    public string[] Interests =
+    public string[] Passion =
     {
         "Backend Development",
-        "AI Automation",
-        "REST APIs",
-        "Shopify",
         "Software Architecture",
-        "IoT Systems"
+        "Artificial Intelligence",
+        "Automation",
+        "Cloud Technologies",
+        "Shopify",
+        "IoT"
     };
 
-    public string Philosophy =>
-        "Build products that solve real business problems.";
+    public string Motto =>
+        "Build products that people actually use.";
 }
 ```
 
 ---
 
-# 🚀 Current Focus
+# Current Focus
 
-✔ Building scalable ASP.NET Core applications
-
-✔ AI-powered business automation
-
-✔ Shopify integrations
-
-✔ Software architecture
-
-✔ Distributed systems
+- 🚀 Building scalable ASP.NET Core applications
+- 🤖 Developing AI-powered automation systems
+- 🛒 Creating Shopify applications & integrations
+- ⚙️ Designing clean software architecture
+- ☁️ Learning distributed systems & cloud technologies
 
 ---
 
-# ⚡ Tech Stack
+# Tech Arsenal
 
-## Backend
+### Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=cs,dotnet"/>
-
 </p>
 
-ASP.NET Core • Entity Framework Core • REST API • JWT • SignalR
+`ASP.NET Core` • `Entity Framework Core` • `REST API`
+`JWT` • `SignalR`
 
 ---
 
-## Frontend
+### Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
-
 </p>
 
 ---
 
-## Database
+### Database
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
-
 </p>
 
-SQL Server • PostgreSQL • MySQL • MongoDB • Redis
+`SQL Server` • `PostgreSQL` • `MongoDB`
+`MySQL` • `Redis`
 
 ---
 
-## DevOps & Tools
+### DevOps & Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,docker,visualstudio,vscode"/>
-
 </p>
 
 ---
 
-## AI
+### Artificial Intelligence
 
 - OpenAI API
 - Claude API
-- Prompt Engineering
 - AI Automation
+- Prompt Engineering
 
 ---
 
-## E-Commerce
+### E-Commerce
 
 - Shopify
 - WooCommerce
@@ -136,100 +126,122 @@ SQL Server • PostgreSQL • MySQL • MongoDB • Redis
 
 ---
 
-## IoT
+### IoT
 
 - ESP32
 - Arduino
-- OBD-II
 - CAN Bus
+- OBD-II
 
 ---
 
-# 🌟 Featured Projects
+# Featured Projects
 
 ## 🚀 Shopify Automation Platform
 
-Complete automation platform for Shopify stores.
+Automation platform designed for modern Shopify stores.
 
-- Product Synchronization
-- Inventory Management
-- REST APIs
-- Performance Optimization
+✔ Product Synchronization
+
+✔ Inventory Management
+
+✔ Order Processing
+
+✔ API Integrations
+
+✔ Performance Optimization
 
 ---
 
 ## 🤖 AI Product Generator
 
-Generate high-quality product descriptions using AI.
+Generate SEO-friendly product content using AI.
 
 - OpenAI API
 - Prompt Engineering
-- Bulk Generation
+- Bulk Content Generation
 
 ---
 
-## 🛒 Marketplace Integration
+## 🌐 Marketplace Integration
 
-Synchronization between multiple marketplaces.
+Synchronize products and orders between multiple marketplaces.
 
 - Authentication
 - REST APIs
 - Order Management
+- Inventory Sync
 
 ---
 
-## 🏎 ESP32 Shift Light
+## 🏎 ESP32 Performance Dashboard
 
-Real-time racing dashboard powered by OBD-II.
+Real-time vehicle dashboard powered by ESP32 and OBD-II.
 
-- ESP32
-- Bluetooth
 - CAN Bus
+- Bluetooth
 - TFT Display
+- NeoPixel Shift Light
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
-<div align="center">
+<p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=caganderindere&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caganderindere&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
----
-
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=caganderindere&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+# Development Activity
 
-<div align="center">
+> Consistency beats intensity.
 
-<img src="https://github-profile-trophy.vercel.app/?username=caganderindere&theme=tokyonight&no-frame=true&column=4"/>
+<p align="center">
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caganderindere&theme=tokyo-night&hide_border=true"/>
 
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/caganderindere/caganderindere/output/github-contribution-grid-snake.svg">
-
-</div>
+</p>
 
 ---
 
-# 💡 Philosophy
+# My Workflow
+
+```text
+Idea
+ │
+ ▼
+Research
+ │
+ ▼
+Architecture
+ │
+ ▼
+Development
+ │
+ ▼
+Testing
+ │
+ ▼
+Deployment
+ │
+ ▼
+Continuous Improvement
+```
+
+---
+
+# Philosophy
 
 > Great software isn't measured by how many technologies it uses.
 >
@@ -237,17 +249,18 @@ Real-time racing dashboard powered by OBD-II.
 
 ---
 
-# 📈 Visitor Counter
+# Currently Learning
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=caganderindere&style=for-the-badge&color=0e75b6"/>
-
-</div>
+- Microservices
+- Clean Architecture
+- Distributed Systems
+- Azure
+- Kubernetes
+- Advanced AI Workflows
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 <p align="center">
 
@@ -269,10 +282,8 @@ Real-time racing dashboard powered by OBD-II.
 
 <div align="center">
 
-# 🚀
+## "Build. Learn. Improve. Repeat."
 
-### Build. Learn. Improve. Repeat.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0EA5E9,100:6366F1&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient"/>
 
 </div>
