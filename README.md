@@ -1,117 +1,83 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=ÇAĞAN%20DERİNDERE&fontSize=48&fontColor=00F5FF&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:1E3A8A,100:2563EB&text=ÇAĞAN%20DERİNDERE&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Merhaba+Ben+Çağan+Derindere+👋;Full+Stack+.NET+Developer;Shopify+Developer;AI+Automation+Engineer;Backend+%26+API+Developer;Building+Software+That+Solves+Real+Problems" />
+# 👋 Merhaba
 
-### 🚀 Full Stack .NET Developer • Shopify Developer • AI Automation
+### Full Stack .NET Developer • Shopify Developer • AI Automation Engineer
 
-Modern web uygulamaları geliştiriyor, e-ticaret süreçlerini otomatikleştiriyor ve yapay zekâ destekli çözümler üretiyorum.
+> Modern yazılımlar geliştiriyor, e-ticaret sistemleri kuruyor ve yapay zekâ destekli otomasyonlar geliştiriyorum.
 
 <br>
 
-<a href="mailto:programmercagan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cagandrd/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:programmercagan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/caganderindere)
 
-<a href="https://www.linkedin.com/in/cagandrd/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/caganderindere">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=caganderindere&style=for-the-badge&color=3B82F6"/>
+![](https://komarev.com/ghpvc/?username=caganderindere&style=for-the-badge&color=2563EB)
 
 </div>
 
 ---
 
-# 👨‍💻 Hakkımda
+# 💻 Hakkımda
 
 ```csharp
 public class CaganDerindere
 {
-    public string Name => "Çağan Derindere";
+    public string Role = "Full Stack .NET Developer";
 
-    public string Role =>
-        "Full Stack .NET Developer";
-
-    public string University =>
+    public string University =
         "Management Information Systems";
 
-    public string[] Interests =>
+    public string[] Technologies =
     {
-        ".NET",
         "ASP.NET Core",
+        "C#",
+        "Entity Framework",
+        "REST API",
+        "SQL Server",
         "Shopify",
-        "Artificial Intelligence",
-        "Automation",
-        "Cloud",
-        "IoT"
+        "OpenAI",
+        "Docker",
+        "Redis",
+        "MongoDB"
     };
 
-    public string Motto =>
-        "Build. Learn. Improve. Repeat.";
+    public string Motto =
+        "Build products that solve real problems.";
 }
 ```
 
 ---
 
-# ⚡ Teknolojiler
+# ⚙️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,mysql,postgres,mongodb,redis,docker,git,github,visualstudio,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,git,github,docker,visualstudio,vscode,mysql,postgres,mongodb,redis&theme=dark"/>
 
 </div>
 
 ---
 
-# 🚀 Çalıştığım Alanlar
+# 🚀 Şu An Çalıştığım Alanlar
 
-- 💻 ASP.NET Core Web Applications
-- 🔥 REST API Development
-- 🛒 Shopify Store Development
-- ⚙️ AI Automation Systems
-- 🤖 OpenAI API Integrations
-- ☁️ Cloud Technologies
-- 🚗 ESP32 & IoT Projects
+🛒 Shopify Development
 
----
+⚙️ ASP.NET Core Web API
 
-# ⭐ Öne Çıkan Projeler
+🤖 AI Automation
 
-### 🛒 Shopify Automation
+☁️ Cloud Technologies
 
-- Shopify geliştirme
-- SEO
-- Performans optimizasyonu
-- API entegrasyonları
+🏗 Clean Architecture
+
+🚗 ESP32 & IoT
 
 ---
 
-### 🤖 AI Automation
-
-- OpenAI API
-- İçerik üretimi
-- Prompt Engineering
-- İş süreçleri otomasyonu
-
----
-
-### 🚗 ESP32 Performance Dashboard
-
-- OBD-II
-- CAN Bus
-- Bluetooth
-- TFT Display
-- Shift Light
-
----
-
-# 📊 GitHub İstatistikleri
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -131,7 +97,7 @@ public class CaganDerindere
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -141,31 +107,11 @@ public class CaganDerindere
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=caganderindere&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📫 Bana Ulaş
-
-<div align="center">
-
-<a href="mailto:programmercagan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/cagandrd/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/caganderindere">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=caganderindere&theme=algolia&no-frame=true&margin-w=12&margin-h=12"/>
 
 </div>
 
@@ -173,8 +119,8 @@ public class CaganDerindere
 
 <div align="center">
 
-## ⭐ Build • Learn • Improve • Repeat
+## ⚡ "Code • Build • Learn • Repeat"
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2563EB,100:0F172A"/>
 
 </div>
