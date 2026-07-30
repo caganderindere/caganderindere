@@ -104,4 +104,4 @@ public class CaganDerindere
 
 ---
 
-> ## 💙 "Kod yazmak bir başlangıçtır. Asıl hedef, insanların hayatını kolaylaştıran çözümler üretmektir."
+> ## 💙 "Çocukken bilgisayarın karşısında duyduğum heyecan, bugün her yeni projeye başlarken bana hâlâ aynı motivasyonu veriyor."
