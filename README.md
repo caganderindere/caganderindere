@@ -1,30 +1,32 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,25:0F172A,50:1E3A8A,75:2563EB,100:38BDF8&text=ÇAĞAN%20DERİNDERE&fontColor=FFFFFF&fontSize=58&animation=twinkling&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=ÇAĞAN%20DERİNDERE&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=⚡+Full+Stack+.NET+Developer;🚀+Backend+Engineer;🤖+AI+Automation+Engineer;🛒+Shopify+Developer;☁️+Cloud+Enthusiast;💻+Build.+Learn.+Repeat." />
+# 👋 Full Stack .NET Developer
 
-<br>
+### ASP.NET Core • Shopify • AI Automation • Backend
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,mysql,postgres,mongodb,redis,docker,git,github,visualstudio,vscode&theme=dark"/>
+Modern web uygulamaları, e-ticaret sistemleri ve yapay zekâ destekli otomasyonlar geliştiriyorum.
 
-<br><br>
+<p>
 
 <a href="mailto:programmercagan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/cagandrd/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/caganderindere">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=caganderindere&style=for-the-badge&color=38BDF8"/>
+<img src="https://komarev.com/ghpvc/?username=caganderindere&style=for-the-badge&color=blue"/>
+
+</p>
 
 </div>
 
@@ -35,8 +37,6 @@
 ```csharp
 public class CaganDerindere
 {
-    public string Name => "Çağan Derindere";
-
     public string Role =>
         "Full Stack .NET Developer";
 
@@ -47,92 +47,61 @@ public class CaganDerindere
     {
         "ASP.NET Core",
         "C#",
-        "REST API",
         "Entity Framework",
+        "REST API",
         "SQL Server",
         "PostgreSQL",
         "MongoDB",
         "Redis",
-        "Shopify",
-        "OpenAI API",
         "Docker",
-        "Git"
+        "Shopify",
+        "OpenAI"
     };
 
-    public void DailyRoutine()
-    {
-        while(true)
-        {
-            Code();
-            Learn();
-            Build();
-            Repeat();
-        }
-    }
+    public string Motto =>
+        "Build • Learn • Improve";
 }
 ```
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,mysql,postgres,mongodb,redis,docker,git,github,visualstudio,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,mysql,postgres,mongodb,redis,docker,git,github,visualstudio,vscode"/>
 
 </p>
 
 ---
 
-# 🚀 Uzmanlık Alanlarım
-
-- ⚙️ ASP.NET Core
-- 🔥 REST API Development
-- 🤖 AI Automation
-- 🛒 Shopify Development
-- 📦 E-Commerce Solutions
-- ☁️ Cloud Technologies
-- 🚗 ESP32 • IoT • OBD-II
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=caganderindere&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=caganderindere&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caganderindere&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caganderindere&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=caganderindere&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=caganderindere&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caganderindere&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=caganderindere&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caganderindere&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -160,8 +129,8 @@ public class CaganDerindere
 
 <div align="center">
 
-## ⚡ "First, solve the problem. Then, write the code."
+## 🚀 Keep Building.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:38BDF8,50:2563EB,100:000000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient"/>
 
 </div>
