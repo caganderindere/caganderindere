@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=220&section=header&text=Çağan%20Derindere&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=ÇAĞAN%20DERİNDERE&fontSize=48&fontColor=00F5FF&animation=twinkling&fontAlignY=35"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Merhaba+Ben+Çağan+Derindere+👋;Full+Stack+.NET+Developer;Shopify+Developer;AI+Automation+Engineer;Backend+%26+API+Developer;Building+Software+That+Solves+Real+Problems" />
 
