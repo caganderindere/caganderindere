@@ -1,126 +1,40 @@
 <div align="center">
+Çağan Derindere
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Geli%C5%9Ftirici;AI+Otomasyon+M%C3%BChendisi;Shopify+Geli%C5%9Ftirici" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:1E3A8A,100:2563EB&text=ÇAĞAN%20DERİNDERE&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
+Gerçek problemleri çözen yazılımlar geliştiriyorum.
 
-# 👋 Merhaba
+<p> <a href="mailto:programmercagan@gmail.com"><img src="https://img.shields.io/badge/Mail-3B82F6?style=flat-square&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/cagandrd/"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=flat-square&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/caganderindere"><img src="https://img.shields.io/badge/GitHub-3B82F6?style=flat-square&logo=github&logoColor=white"/></a> </p> </div> <br>
+Şu An Üzerinde Çalıştıklarım
+ASP.NET Core ile ölçeklenebilir uygulamalar
+Yapay zeka destekli otomasyon sistemleri
+Shopify entegrasyonları
+<br>
+Teknolojiler
 
-### Full Stack .NET Developer • Shopify Developer • AI Automation Engineer
+Backend — ASP.NET Core · Entity Framework Core · REST API · JWT
 
-> Modern yazılımlar geliştiriyor, e-ticaret sistemleri kuruyor ve yapay zekâ destekli otomasyonlar geliştiriyorum.
+Veritabanı — SQL Server · PostgreSQL · MongoDB · Redis
+
+AI — OpenAI API · Claude API · Prompt Engineering
+
+E-Ticaret — Shopify · WooCommerce · SEO
+
+Araçlar — Git · Docker · GitHub
 
 <br>
+Öne Çıkan Projeler
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cagandrd/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:programmercagan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/caganderindere)
+Shopify Otomasyon Platformu — Ürün senkronizasyonu, stok ve sipariş yönetimi
 
-![](https://komarev.com/ghpvc/?username=caganderindere&style=for-the-badge&color=2563EB)
+AI Ürün İçerik Üretici — OpenAI API ile SEO uyumlu ürün açıklamaları
 
-</div>
+Marketplace Entegrasyonu — Çoklu pazaryeri ürün/sipariş senkronizasyonu
 
----
+ESP32 Performans Paneli — OBD-II ve CAN Bus ile gerçek zamanlı araç verisi
 
-# 💻 Hakkımda
+<br> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=caganderindere&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caganderindere&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </div> <br> <div align="center">
 
-```csharp
-public class CaganDerindere
-{
-    public string Role = "Full Stack .NET Developer";
-
-    public string University =
-        "Management Information Systems";
-
-    public string[] Technologies =
-    {
-        "ASP.NET Core",
-        "C#",
-        "Entity Framework",
-        "REST API",
-        "SQL Server",
-        "Shopify",
-        "OpenAI",
-        "Docker",
-        "Redis",
-        "MongoDB"
-    };
-
-    public string Motto =
-        "Build products that solve real problems.";
-}
-```
-
----
-
-# ⚙️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,git,github,docker,visualstudio,vscode,mysql,postgres,mongodb,redis&theme=dark"/>
-
-</div>
-
----
-
-# 🚀 Şu An Çalıştığım Alanlar
-
-🛒 Shopify Development
-
-⚙️ ASP.NET Core Web API
-
-🤖 AI Automation
-
-☁️ Cloud Technologies
-
-🏗 Clean Architecture
-
-🚗 ESP32 & IoT
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=caganderindere&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caganderindere&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=caganderindere&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caganderindere&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=caganderindere&theme=algolia&no-frame=true&margin-w=12&margin-h=12"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ "Code • Build • Learn • Repeat"
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2563EB,100:0F172A"/>
+Build. Learn. Improve. Repeat.
 
 </div>
