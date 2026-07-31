@@ -66,7 +66,7 @@ public class CaganDerindere
 
 - 🚀 ASP.NET Core ile modern web uygulamaları geliştirmek
 - ⚙️ RESTful API ve backend servisleri oluşturmak
-- 🛒 Shopify tabanlı e-ticaret çözümleri geliştirmek
+- 🛒 E-ticaret çözümleri geliştirmek
 - 📦 E-ticaret süreçlerini optimize eden sistemler tasarlamak
 - 🏗️ Temiz, sürdürülebilir ve ölçeklenebilir yazılım mimarileri oluşturmak
 
